@@ -8,6 +8,5 @@ public class cryptoRegister {
         String coinName = in.next();
         System.out.println("Coin entered: " +coinName);
 
-
     }
 }
